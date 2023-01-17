@@ -1,1 +1,1 @@
-# mndlbrot_lb
+# Mandelbrot set visualization using c++
